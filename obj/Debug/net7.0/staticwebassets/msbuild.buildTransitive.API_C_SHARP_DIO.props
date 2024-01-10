@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API_C_SHARP_DIO.props" />
+</Project>
