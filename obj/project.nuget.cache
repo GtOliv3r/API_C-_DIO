@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NbpKAY6wj0Wxdg2Wcue3FwApwMbHyX2fVjzIDty4R9E8axQdSgnenRwI19BGHQZ4nOqXrDGf4b9F/QjFkN1+MQ==",
+  "dgSpecHash": "OAruyXp14nJ5vGKEJ7BmnOZaGDGRCcsM1WvoCYacme8m84wuxIw9zM/7iQmmbou9rBtyVzXg60P8atMYFKRHKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gustavo Oliveira\\Documents\\IC\\Projetos DIO\\API_C_SHARP_DIO\\API_C_SHARP_DIO.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,11 @@
     "C:\\Users\\Gustavo Oliveira\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Gustavo Oliveira\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\Gustavo Oliveira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\Gustavo Oliveira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "C:\\Users\\Gustavo Oliveira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\Gustavo Oliveira\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Gustavo Oliveira\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Gustavo Oliveira\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Gustavo Oliveira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }
