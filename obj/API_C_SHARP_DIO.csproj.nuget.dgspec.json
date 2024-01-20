@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo Oliveira\\Documents\\IC\\Projetos DIO\\API_C_SHARP_DIO\\API_C_SHARP_DIO.csproj": {}
+    "C:\\Users\\Gustavo\\Desktop\\API C # DIO\\API_C_SHARP_DIO\\API_C_SHARP_DIO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo Oliveira\\Documents\\IC\\Projetos DIO\\API_C_SHARP_DIO\\API_C_SHARP_DIO.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\API C # DIO\\API_C_SHARP_DIO\\API_C_SHARP_DIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo Oliveira\\Documents\\IC\\Projetos DIO\\API_C_SHARP_DIO\\API_C_SHARP_DIO.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\API C # DIO\\API_C_SHARP_DIO\\API_C_SHARP_DIO.csproj",
         "projectName": "API_C_SHARP_DIO",
-        "projectPath": "C:\\Users\\Gustavo Oliveira\\Documents\\IC\\Projetos DIO\\API_C_SHARP_DIO\\API_C_SHARP_DIO.csproj",
-        "packagesPath": "C:\\Users\\Gustavo Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo Oliveira\\Documents\\IC\\Projetos DIO\\API_C_SHARP_DIO\\obj\\",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\API C # DIO\\API_C_SHARP_DIO\\API_C_SHARP_DIO.csproj",
+        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gustavo\\Desktop\\API C # DIO\\API_C_SHARP_DIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gustavo Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,14 @@
               "target": "Package",
               "version": "[7.0.10, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -60,24 +68,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
